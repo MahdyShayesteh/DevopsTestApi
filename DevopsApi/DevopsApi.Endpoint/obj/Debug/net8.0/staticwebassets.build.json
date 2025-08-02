@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3ESRKAs5zP0zeCab3xgt6u2nHM5Lcbtme1JKvxvchCM=",
+  "Source": "DevopsApi.Endpoint",
+  "BasePath": "_content/DevopsApi.Endpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
