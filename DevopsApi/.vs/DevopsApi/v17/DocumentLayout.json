@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBFBEE-419F-4A5F-8533-27C412FCB4D7}|DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj|d:\\temp\\personal\\devopstestapi\\devopsapi\\devopsapi.endpoint.tests\\devopsapi.endpoint.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20BBFBEE-419F-4A5F-8533-27C412FCB4D7}|DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj|solutionrelative:devopsapi.endpoint.tests\\devopsapi.endpoint.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBFBEE-419F-4A5F-8533-27C412FCB4D7}|DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj|d:\\temp\\personal\\devopstestapi\\devopsapi\\devopsapi.endpoint.tests\\integrationtest\\weatherforecastintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBFBEE-419F-4A5F-8533-27C412FCB4D7}|DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj|solutionrelative:devopsapi.endpoint.tests\\integrationtest\\weatherforecastintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A49EE0-4750-4E75-9CDD-EB469E33DFB2}|DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj|d:\\temp\\personal\\devopstestapi\\devopsapi\\devopsapi.endpoint\\devopsapi.endpoint.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7A49EE0-4750-4E75-9CDD-EB469E33DFB2}|DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj|solutionrelative:devopsapi.endpoint\\devopsapi.endpoint.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A49EE0-4750-4E75-9CDD-EB469E33DFB2}|DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj|d:\\temp\\personal\\devopstestapi\\devopsapi\\devopsapi.endpoint\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7A49EE0-4750-4E75-9CDD-EB469E33DFB2}|DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj|solutionrelative:devopsapi.endpoint\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBFBEE-419F-4A5F-8533-27C412FCB4D7}|DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj|d:\\temp\\personal\\devopstestapi\\devopsapi\\devopsapi.endpoint.tests\\controller\\weatherforecastcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBFBEE-419F-4A5F-8533-27C412FCB4D7}|DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj|solutionrelative:devopsapi.endpoint.tests\\controller\\weatherforecastcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A49EE0-4750-4E75-9CDD-EB469E33DFB2}|DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj|d:\\temp\\personal\\devopstestapi\\devopsapi\\devopsapi.endpoint\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A49EE0-4750-4E75-9CDD-EB469E33DFB2}|DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj|solutionrelative:devopsapi.endpoint\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevopsApi.Endpoint.Tests",
+              "DocumentMoniker": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj",
+              "RelativeDocumentMoniker": "DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj",
+              "ToolTip": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj",
+              "RelativeToolTip": "DevopsApi.Endpoint.Tests\\DevopsApi.Endpoint.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T12:41:16.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevopsApi.Endpoint",
+              "DocumentMoniker": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj",
+              "RelativeDocumentMoniker": "DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj",
+              "ToolTip": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj",
+              "RelativeToolTip": "DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T12:41:02.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint\\appsettings.json",
+              "RelativeDocumentMoniker": "DevopsApi.Endpoint\\appsettings.json",
+              "ToolTip": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint\\appsettings.json",
+              "RelativeToolTip": "DevopsApi.Endpoint\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T12:41:00.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastIntegrationTests.cs",
+              "DocumentMoniker": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint.Tests\\IntegrationTest\\WeatherForecastIntegrationTests.cs",
+              "RelativeDocumentMoniker": "DevopsApi.Endpoint.Tests\\IntegrationTest\\WeatherForecastIntegrationTests.cs",
+              "ToolTip": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint.Tests\\IntegrationTest\\WeatherForecastIntegrationTests.cs",
+              "RelativeToolTip": "DevopsApi.Endpoint.Tests\\IntegrationTest\\WeatherForecastIntegrationTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:32:12.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DevopsApi.Endpoint\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DevopsApi.Endpoint\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:37.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastControllerTests.cs",
+              "DocumentMoniker": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint.Tests\\Controller\\WeatherForecastControllerTests.cs",
+              "RelativeDocumentMoniker": "DevopsApi.Endpoint.Tests\\Controller\\WeatherForecastControllerTests.cs",
+              "ToolTip": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint.Tests\\Controller\\WeatherForecastControllerTests.cs",
+              "RelativeToolTip": "DevopsApi.Endpoint.Tests\\Controller\\WeatherForecastControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:55:59.057Z",
+              "EditorCaption": ""
             }
           ]
         }
