@@ -14,6 +14,9 @@ namespace DevopsApi.Endpoint.Controllers
         public WeatherForecastController()
         {
 
+
+
+
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
