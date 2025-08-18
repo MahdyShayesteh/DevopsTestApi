@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A49EE0-4750-4E75-9CDD-EB469E33DFB2}|DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj|d:\\temp\\personal\\devopstestapi\\devopsapi\\devopsapi.endpoint\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A49EE0-4750-4E75-9CDD-EB469E33DFB2}|DevopsApi.Endpoint\\DevopsApi.Endpoint.csproj|solutionrelative:devopsapi.endpoint\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DevopsApi.Endpoint\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\temp\\personal\\DevopsTestApi\\DevopsApi\\DevopsApi.Endpoint\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DevopsApi.Endpoint\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:38:29.26Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
