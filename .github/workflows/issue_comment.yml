@@ -8,7 +8,11 @@ jobs:
   comment-with-action:
     runs-on: ubuntu-latest 
     steps:
-      - name: "dump github context"
-        run: echo'${{ toJson(github.event) }}'
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+      - name: Dump GitHub context
+        run: |
+          echo '${{ toJson(github.event) }}' > github_event.json
+          jq . github_event.json
         shell: bash
 
